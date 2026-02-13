@@ -2,7 +2,7 @@
  *
  * Created by: Isaac Garrow
  * Created on: Feb 2026
- * This program will print hello World
+ * This program will say 'Hello, MTHS!'
 */
 
-basic.showString('Hello, Isaac!')
+basic.showString('Hello, MTHS!')
